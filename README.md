@@ -1,5 +1,5 @@
-clone its
-npm i 
-npm start 
+- clone 
+- npm i 
+- npm start 
 
 - bootstrap, google font, awsome fonts and css custome variable integration 
